@@ -1,2 +1,3 @@
 # Vending-Machine
-VLSI Project
+
+VLSI Project Description
